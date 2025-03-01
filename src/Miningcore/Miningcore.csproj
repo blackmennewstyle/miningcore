@@ -54,7 +54,7 @@
         <PackageReference Include="Npgsql" Version="8.0.5" />
         <PackageReference Include="NSwag.AspNetCore" Version="14.0.2" />
         <PackageReference Include="NSwag.CodeGeneration.CSharp" Version="14.0.2" />
-        <PackageReference Include="NSwag.MSBuild" Version="14.0.2">
+        <PackageReference Include="NSwag.MSBuild" Version="14.2.0">
             <PrivateAssets>all</PrivateAssets>
             <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
         </PackageReference>
